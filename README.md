@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomos Jones</h1>
 <h3 align="center">I’m Tom from Wales! I’m a passionate gameplay programmer and backend developer with a deep interest in real-time networking and server-client communication. I’m currently studying at Salford University, in my third and final year. At the moment, I’m diving into the world of WebSockets, working on an exciting Unity project called Cauldron Chaos, and building and maintaining this website. My goal is to create robust, scalable systems that push the boundaries of interactivity in games. When I’m not coding, you’ll find me refining my skills in Unity, jamming out on one of my five guitars (yes, really), or geeking out over my favorite car brand, Alfa Romeo. I’ve always been captivated by their timeless design and the passion they put into every vehicle—it’s engineering meets art! I also love getting lost in some weird and wonderful tech videos. I’m also a big fan of Welsh country music – It’s a great way to relax, and as a Welsh speaker, I enjoy connecting with my roots through the language and music. I’m really passionate about the backend tech behind large-scale online games and want to help build the systems that power them, especially when it comes to live gaming events.</h3>
 
-- 🔭 I’m currently working on **Cauldron Chaos** <a href>www.x.com/chaoscauldron.com</a> 
+- 🔭 I’m currently working on **Cauldron Chaos** <a href = www.x.com/chaoscauldron.com>Cauldron Chaos Twitter</a> 
 
 - 👨‍💻 My website: [www.tomosj.co.uk](www.tomosj.co.uk)
 
