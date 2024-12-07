@@ -3,7 +3,7 @@
 
 - I’m currently a Lead programmer on <a href = https://www.x.com/chaos_cauldron>**Cauldron Chaos**</a> 
 
-- My website: [www.tomosj.co.uk](www.tomosj.co.uk)
+- My website: [www.tomosj.co.uk](https://www.tomosj.co.uk)
 
 <h3 align="left">My Socials:</h3>
 <p align="left">
